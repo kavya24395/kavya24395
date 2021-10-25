@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, it's Kavya 👋
+
+https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue
 
 <!--
 **kavya24395/kavya24395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
