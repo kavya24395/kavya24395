@@ -1,22 +1,23 @@
-### Hi there, it's Kavya 👋
+# Hi there, it's Kavya 👋
 
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kavya-ps095/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@kavya.ps095/)
+
+I am a Senior Engineer with a demonstrated history of working on Android. Hands-on experience in Android Framework (Android Open Source Project) as well as Android application development. Work experience includes Android mobile, TV, and Automotive domains.
                                                                                               
-<!--
-**kavya24395/kavya24395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some of my achievements
 
-Here are some ideas to get you started:
+🥉 Won 3rd prize in 'Build with Serveless', an online Hackathon organized by Amazon Web Services on Skillenza, in 2020. <br>
+🏆 Received Bravo award in 2019 at Tata Elxsi. <br>
+🏆 Received Bravo award in 2018 at Tata Elxsi. <br>
+🎖 Conducted a session at Tata Elxsi on fixing ANR which received a rating of 4.62/5. <br>
+📯 Open mic speaker at Droidcon 2019, Chennai. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+![](https://img.icons8.com/color/48/000000/kotlin.png) ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
+![](https://img.icons8.com/color/48/000000/android-studio--v2.png) ![](https://img.icons8.com/color/48/000000/nodejs.png)
+![](https://img.icons8.com/color/48/000000/git.png)
+
+## My Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kavya24395&show_icons=true&theme=dracula)](https://github.com/kavya24395/kavya24395)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya24395&layout=compact&theme=dracula)](https://github.com/kavya24395/kavya24395) 
