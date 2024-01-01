@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kavya-ps095/)    [![Medium](https://img.shields.io/badge/Medium-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@kavya.ps095/)
 
-I am a Senior Engineer with a demonstrated history of working on Android. Hands-on experience in Android Framework (Android Open Source Project) as well as Android application development. Work experience includes Android mobile, TV, and Automotive domains.
+I am a Software Engineer with a demonstrated history of working on Android. Hands-on experience in Android Framework (Android Open Source Project) as well as Android application development. Work experience includes Android mobile, TV, and Automotive domains.
                                                                                               
 ## Some of my achievements
 
