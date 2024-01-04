@@ -17,3 +17,8 @@ Also, played around with NodeJs, Django Framework, and Scala.
 ![](https://img.icons8.com/color/48/000000/kotlin.png) ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) 
 ![](https://img.icons8.com/color/48/000000/android-studio--v2.png) ![](https://img.icons8.com/color/48/000000/nodejs.png)
 ![](https://img.icons8.com/color/48/000000/git.png)![](https://github.com/kavya24395/kavya24395/assets/25947143/30a47a00-6678-4fe3-b1c3-4c6991f58e5d)
+
+## My Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kavya24395&show_icons=true&theme=dracula)](https://github.com/kavya24395/kavya24395)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya24395&layout=compact&theme=dracula)](https://github.com/kavya24395/kavya24395) 
